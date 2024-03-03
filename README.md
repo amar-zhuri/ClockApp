@@ -1,4 +1,4 @@
-# Advanced Java Swing Clock Application
+# Java Swing Clock Application
 
 Welcome to the Advanced Java Swing Clock Application, a sophisticated real-time clock display built using Java Swing. This application provides advanced features and customization options for an enhanced timekeeping experience.
 
